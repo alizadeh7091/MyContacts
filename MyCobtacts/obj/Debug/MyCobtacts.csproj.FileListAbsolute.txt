@@ -1,0 +1,10 @@
+G:\کارشناسی\c#\MyCobtacts\MyCobtacts\bin\Debug\MyCobtacts.exe.config
+G:\کارشناسی\c#\MyCobtacts\MyCobtacts\bin\Debug\MyCobtacts.exe
+G:\کارشناسی\c#\MyCobtacts\MyCobtacts\bin\Debug\MyCobtacts.pdb
+G:\کارشناسی\c#\MyCobtacts\MyCobtacts\obj\Debug\MyCobtacts.csprojResolveAssemblyReference.cache
+G:\کارشناسی\c#\MyCobtacts\MyCobtacts\obj\Debug\MyCobtacts.Form1.resources
+G:\کارشناسی\c#\MyCobtacts\MyCobtacts\obj\Debug\MyCobtacts.Properties.Resources.resources
+G:\کارشناسی\c#\MyCobtacts\MyCobtacts\obj\Debug\MyCobtacts.csproj.GenerateResource.Cache
+G:\کارشناسی\c#\MyCobtacts\MyCobtacts\obj\Debug\MyCobtacts.exe
+G:\کارشناسی\c#\MyCobtacts\MyCobtacts\obj\Debug\MyCobtacts.pdb
+G:\کارشناسی\c#\MyCobtacts\MyCobtacts\obj\Debug\MyCobtacts.FrmAddOrEdit.resources
